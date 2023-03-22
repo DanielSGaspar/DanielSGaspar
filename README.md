@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Daniel
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on any interesting project
 - 📫 How to reach me: daniel.s.gaspar@gmail.com
