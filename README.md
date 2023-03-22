@@ -1,4 +1,5 @@
 ### Hi there 👋 I'm Daniel
+- 🔭 I’m currently working on Tag Along - https://github.com/DanielSGaspar/tag_along
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on any interesting project
 - 📫 How to reach me: daniel.s.gaspar@gmail.com
